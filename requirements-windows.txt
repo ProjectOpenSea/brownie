@@ -262,7 +262,7 @@ python-dateutil==2.8.1
     #   -r requirements.txt
     #   mythx-models
     #   pythx
-python-dotenv==0.16.0
+python-dotenv==0.20.0
     # via -r requirements.txt
 pythx==1.6.1
     # via -r requirements.txt
