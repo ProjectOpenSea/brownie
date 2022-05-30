@@ -234,7 +234,7 @@ pygments==2.12.0
     #   pygments-lexer-solidity
 pygments-lexer-solidity==0.7.0
     # via -r requirements.txt
-pyjwt==1.7.1
+pyjwt==2.1.0
     # via
     #   -r requirements.txt
     #   pythx
